@@ -52,10 +52,9 @@ The files in this repository are licensed under the Creative Commons Attribution
 
 ## Useful links
 
-- K:03 v4 – Wireless Edition:
-  - [Case for 3D printing (STL)](stls)
-  - [Case model for editing (STEP)](step)
-  - [Circuit schematic](https://oshwlab.com/yuriiq/)
+- [Case for 3D printing (STL)](stls)
+- [Case model for editing (STEP)](step)
+- [Circuit schematic](https://oshwlab.com/yuriiq/)
 
 ### Firmware
 - [Pre-compiled files](https://github.com/ergohaven/keymap_hub)
