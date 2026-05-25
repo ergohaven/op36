@@ -19,7 +19,7 @@ Omega Point 36 the most minimalist and compact keyboard we've ever created: easy
 ![Omega Point 36 Layouts](images/Op_en.png)
 
 ## This repository contains all files related to this keyboard
-PCB and schematic can be found [here](https://oshwlab.com/yuriiq/)
+PCB and schematic can be found [here](https://oshwlab.com/yuriiq/project_bdfypwfy)
 
 ### BOM
 
@@ -54,7 +54,7 @@ The files in this repository are licensed under the Creative Commons Attribution
 
 - [Case for 3D printing (STL)](stls)
 - [Case model for editing (STEP)](step)
-- [Circuit schematic](https://oshwlab.com/yuriiq/)
+- [Circuit schematic](https://oshwlab.com/yuriiq/project_bdfypwfy)
 
 ### Firmware
 - [Pre-compiled files](https://github.com/ergohaven/keymap_hub)
